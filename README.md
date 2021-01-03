@@ -5,4 +5,4 @@ Data analysis, cleansing and visualization of data from the international startu
 
 Logistic and K-Nearest Neighbors modeling for the prediction of startup IPO outcomes. 
 
-All data from the Startup Investments dataset from Kaggle.
+All data from the Startup Investments dataset from Kaggle: https://www.kaggle.com/justinas/startup-investments
